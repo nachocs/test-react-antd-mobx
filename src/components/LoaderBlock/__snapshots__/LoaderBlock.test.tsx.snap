@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LoaderBlock should render spinner 1`] = `
+<div
+  className="LoaderBlock"
+>
+  <Spin
+    size="default"
+    spinning={true}
+    wrapperClassName=""
+  />
+</div>
+`;

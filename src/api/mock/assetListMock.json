@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "Canon 760D",
+    "description": "Photo camera"
+  },
+  {
+    "id": "2",
+    "name": "Canon EF-S 18-135mm f/3.5-5.6 IS STM",
+    "description": "Photo camera lens"
+  },
+  {
+    "id": "3",
+    "name": "Canon EF 50mm f/1.4 usm",
+    "description": "Photo camera lens"
+  },
+  {
+    "id": "4",
+    "name": "Canon Speedlite 580EXII",
+    "description": "Photo camera flash"
+  },
+  {
+    "id": "5",
+    "name": "ColorChecker Passport Photo 2",
+    "description": "Card to have accurate, consistent colors"
+  }
+]

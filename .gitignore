@@ -1,0 +1,8 @@
+.eslintcache
+.DS_Store
+.history
+.idea
+.vscode
+
+node_modules
+build

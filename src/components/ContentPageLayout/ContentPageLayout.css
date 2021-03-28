@@ -1,0 +1,10 @@
+.ContentPageLayout {
+  background-color: #FFF;
+}
+.ContentPageLayout_Content {
+  background-color: #FFFFFF;
+  padding: 24px 64px;
+}
+.ContentPageLayout_Header {
+  background-color: #EEEEEE;
+}
